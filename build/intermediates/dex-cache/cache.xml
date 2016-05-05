@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\Android\Example\AndroidCustomSeekbarExample-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="F:\Android\Example\AndroidCustomSeekbarExample-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_416f9fa99b202176d8d61ac080cc2ac77431b107.jar" />
+    </item>
+    <item
+        jar="F:\Android\Example\AndroidCustomSeekbarExample-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="00a924d5584400801a492dfd9bf65c682c6c5053">
+        <dex dex="F:\Android\Example\AndroidCustomSeekbarExample-master\app\build\intermediates\pre-dexed\debug\instant-run_a12d311d5b5da4dfafc48cf950a6b268889aaa55.jar" />
+    </item>
+    <item
+        jar="F:\Android\Example\AndroidCustomSeekbarExample-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="36a82d1650be3ce65c759d2649479d51f4b1e118">
+        <dex dex="F:\Android\Example\AndroidCustomSeekbarExample-master\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_a43384cfd5b389a9f5348f636f43e42155cee120.jar" />
+    </item>
+    <item
+        jar="C:\Users\ACER\AppData\Local\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="F:\Android\Example\AndroidCustomSeekbarExample-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_1f792c445be71caa31eb3eb40d51c68068ce3d86.jar" />
+    </item>
+    <item
+        jar="F:\Android\Example\AndroidCustomSeekbarExample-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="F:\Android\Example\AndroidCustomSeekbarExample-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_f8adb4f81c5ab7c5758540c4941549fa5f4f06dd.jar" />
+    </item>
+    <item
+        jar="F:\Android\Example\AndroidCustomSeekbarExample-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="F:\Android\Example\AndroidCustomSeekbarExample-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_7e1edea51616cdd15ecfbb0c04de73250366d3d7.jar" />
+    </item>
+
+</items>
